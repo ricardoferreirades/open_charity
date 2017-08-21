@@ -1,0 +1,34 @@
+{
+  "name": "open-charity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+  ],
+  "author": "Ricardo Ferreira",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "del": "^3.0.0",
+    "jquery": "^3.2.1",
+    "owl.carousel": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
